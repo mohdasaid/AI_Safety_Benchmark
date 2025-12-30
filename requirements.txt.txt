@@ -1,0 +1,10 @@
+pandas
+openpyxl
+matplotlib
+seaborn
+openai
+anthropic
+google-generativeai
+python-dotenv
+tqdm
+scikit-learn
